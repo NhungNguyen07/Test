@@ -1,0 +1,6 @@
+name:
+  max_length: 50
+email:
+  max_length: 250
+password:
+  min_length: 6
