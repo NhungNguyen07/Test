@@ -1,12 +1,17 @@
 en:
   ruby_on: "Ruby on Rails Tutorial Sample App"
   ruby: "Ruby on Rails Tutorial"
+  sample_app: "sample app"
   static_pages:
     home:
       title: "Page Home"
       this_home: "This is the home page for the"
       sample: "sample application."
       Welcome: "Welcome to the Sample App"
+      sign_up: "Sign up now!"
+      Rails_logo: "Rails logo"
+      Welcome: Welcome to the Sample App
+      this_is: "This is the home page for the"
       sign_up: "Sign up now!"
       Rails_logo: "Rails logo"
     help:
@@ -16,7 +21,16 @@ en:
       to_get: "To get help on this sample app, see the"
   layouts:
     application:
-      sample_app: "sample app"
-      Home: "Home"
+    _header:
       Help: "Help"
       Log_in: "Log in"
+    _footer:
+      the: "The"
+      by: "by"
+      Michael: "Michael Hartl"
+      About: "About"
+      Contact: "Contact"
+      News: "News"
+
+
+
