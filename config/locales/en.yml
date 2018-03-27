@@ -2,18 +2,18 @@ en:
   ruby_on: "Ruby on Rails Tutorial Sample App"
   ruby: "Ruby on Rails Tutorial"
   sample_app: "sample app"
+  title_content: "Welcome to the Sample App!"
+  no_user: "No user search"
   static_pages:
     home:
       title: "Page Home"
       this_home: "This is the home page for the"
       sample: "sample application."
-      Welcome: "Welcome to the Sample App"
+      welcome: "Welcome to the Sample App"
       sign_up: "Sign up now!"
-      Rails_logo: "Rails logo"
-      Welcome: Welcome to the Sample App
+      rails_logo: "Rails logo"
       this_is: "This is the home page for the"
       sign_up: "Sign up now!"
-      Rails_logo: "Rails logo"
     help:
       page_help: "Page Help"
       get_help: "Get help on the Ruby on Rails Tutorial at the"
@@ -22,15 +22,23 @@ en:
   layouts:
     application:
     _header:
-      Help: "Help"
-      Log_in: "Log in"
+      home: "Home"
+      help: "Help"
+      log_in: "Log in"
     _footer:
       the: "The"
       by: "by"
-      Michael: "Michael Hartl"
-      About: "About"
-      Contact: "Contact"
-      News: "News"
+      michael: "Michael Hartl"
+      about: "About"
+      contact: "Contact"
+      news: "News"
+  users:
+    new:
+      sign: "Sign up"
+      create: "Create my account"
+  shared:
+    _error_messages:
+      error: "The form contains"
 
 
 

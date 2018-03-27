@@ -4,3 +4,5 @@ email:
   max_length: 250
 password:
   min_length: 6
+user_size:
+  size: 80
