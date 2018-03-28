@@ -1,10 +1,10 @@
 <div class="center jumbotron">
-  <h1><%= t ".Welcome" %></h1>
+  <h1><%= t ".welcome" %></h1>
   <h2>
     <%= t ".this_is" %>
     <a href="http://www.railstutorial.org/"><%= t "ruby" %></a>
     <%= t ".sample" %>
   </h2>
-  <%= link_to t("sign_up"), "#", class: "btn btn-lg btn-primary" %>
+  <%= link_to t("sign_up"), signup_path, class: "btn btn-lg btn-primary" %>
 </div>
-<%= link_to image_tag("rails.png", alt: t("Rails_logo")), "http://rubyonrails.org/" %>
+<%= link_to image_tag("rails.png", alt: t("rails_logo")), "http://rubyonrails.org/" %>
