@@ -13,3 +13,5 @@ number_session: 1
 account_activation: "Account activation"
 email_com: "noreply@example.com"
 password_reset: "Password reset"
+remember_me: 1
+account_activation: "Account activation"
