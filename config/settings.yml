@@ -8,3 +8,6 @@ user_size:
   size: 80
 session_number: 1
 avatar_size: 50
+host: "localhost:3000"
+remember_me: 1
+account_activation: "Account activation"
