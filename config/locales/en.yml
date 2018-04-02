@@ -1,7 +1,7 @@
 en:
   ruby_on: "Ruby on Rails Tutorial Sample App"
   ruby: "Ruby on Rails Tutorial"
-  sample_app: "sample app"
+  sample_app: "Sample app"
   title_content: "Welcome to the Sample App!"
   no_user: "No user search"
   danger: "Invalid email/password combination"
@@ -9,6 +9,14 @@ en:
   sure: "You sure?"
   user_deleted: "User deleted"
   update: "Profile update"
+  account_activated: "Account activated!"
+  activation_link: "Invalid activation link"
+  not_activated: "Account not activated."
+  check_email: "Check your email for the activation link."
+  hi: "Hi"
+  click_link: "Welcome to the Sample App! Click on the link below to
+    activate your account:"
+  password_reset: "User#password_reset"
   static_pages:
     home:
       title: "Page Home"
@@ -64,3 +72,6 @@ en:
       signup: "Sign up now!"
       new_user: "New user?"
       remember: "Remember me on this computer"
+  user_mailer:
+    account_activation:
+      activate: "Activate"
