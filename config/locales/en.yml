@@ -27,6 +27,9 @@ en:
   success_reset: "Password has been reset."
   danger_reset: "Password reset has expired."
   reset_password: "Reset password"
+  micro_created: "Micropost created!"
+  micro_deleted: "Micropost deleted"
+  sure: "You sure?"
   static_pages:
     home:
       title: "Page Home"
@@ -93,3 +96,7 @@ en:
       submit: "Submit"
     edit:
       update_password: "Update password"
+  microposts:
+    _micropost:
+      posted: "Posted"
+      ago: "ago."
