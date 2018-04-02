@@ -5,6 +5,10 @@ en:
   title_content: "Welcome to the Sample App!"
   no_user: "No user search"
   danger: "Invalid email/password combination"
+  danger_login: "Please log in."
+  sure: "You sure?"
+  user_deleted: "User deleted"
+  update: "Profile update"
   static_pages:
     home:
       title: "Page Home"
@@ -42,6 +46,15 @@ en:
     new:
       sign: "Sign up"
       create: "Create my account"
+    edit:
+      edit_user: "Edit user"
+      update: "Update your profile"
+      save_change: "Save changes"
+      change: "change"
+    index:
+      all_users: "All users"
+    _user:
+      delete: "delete"
   shared:
     _error_messages:
       error: "The form contains"
